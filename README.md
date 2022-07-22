@@ -1,4 +1,4 @@
-[![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/Network_v2.gif "Ujjwal Chowdhury")](https://github.com/U77w41)
+[![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41)
 
 
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
@@ -56,8 +56,6 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u77w41&show_icons=true&locale=en&layout=compact" alt="u77w41" /></p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=u77w41&show_icons=true&locale=en" alt="u77w41" /></p>
 
 
 
