@@ -56,8 +56,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=u77w41&show_icons=true&locale=en&layout=compact" alt="u77w41" /></p>
 
-## Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u77w41&theme=2077)
+
 
 
 
