@@ -111,12 +111,25 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
-
 ### Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=u77w41&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 47%"/></div>  
+<div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u77w41&theme=github_dark" align="left" style="width: 47%"/></div>  
+ 
+ <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u77w41&theme=2077" align="left" style="width: 47%"/></div> 
+
+
+</div>
+
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=u77w41&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
+
+
+
+
+
+ 
  
 
-<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=u77w41&" alt="u77w41" style="width: 47%" /></div>
+
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
