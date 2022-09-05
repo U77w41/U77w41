@@ -66,7 +66,8 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 [![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
-
+[![](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)](#) &emsp;
+	
 
 
 
