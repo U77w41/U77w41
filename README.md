@@ -63,11 +63,13 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 ### Skills 🚀 
 
-[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)](#) &emsp;
-	
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=for-the-badge)
+![ML -  Machine Learning](https://img.shields.io/badge/ML-_Machine_Learning-2ea44f?style=for-the-badge)
+![Deep Learning - DL](https://img.shields.io/badge/Deep_Learning-DL-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-important?style=for-the-badge)
+![Computer Vision - CV](https://img.shields.io/badge/Computer_Vision-CV-blue?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data_Mining-success?style=for-the-badge)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-red?style=for-the-badge)
 
 
 
