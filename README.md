@@ -86,9 +86,14 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ### Tools & IDEs:
-
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -96,6 +101,9 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
+
 
 | Analytics | DataBase | Framework |
 |:----:|:----:|:----:|
@@ -136,6 +144,27 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 <a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=U77w41&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" style="width: 80%"/></a>
 
  </div> -->
+ 
+ 
+ 
+
+ 
+### Kaggle Profile Status:
+
+
+
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition)
+
+ 
+
+
+
+ 
+ 
+ 
  
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
