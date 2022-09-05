@@ -1,6 +1,6 @@
 [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
+
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
 <h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
 I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching animes. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
@@ -113,9 +113,10 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=u77w41&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=u77w41&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 47%"/></div>  
+ 
 
-<br/>  
+<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=u77w41&" alt="u77w41" style="width: 47%" /></div>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=u77w41&" alt="u77w41" /></div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
