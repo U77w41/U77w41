@@ -1,5 +1,7 @@
-[![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41)
-
+<!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41) -->
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
 <h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
@@ -117,9 +119,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=u77w41&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D"  style="width: 80%" />
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
+
  
 <div align="center">
    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=u77w41&theme=github"/>
