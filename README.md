@@ -163,11 +163,6 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
  
 
-
-
- 
- 
- 
  
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
