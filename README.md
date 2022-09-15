@@ -46,11 +46,11 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
-- 🔭 I’m currently working on [Bengali Automatic Speech Recognition](https://www.kaggle.com/competitions/dlsprint)
+- 🔭 I’m currently working on [Building a Smart Financial Assistant](https://github.com/U77w41/Smart-Financial-Assistant)
 
 - 🌱 I’m currently learning **Deep Learning , NLP , Statistics**
 
-- 👯 I’m looking to collaborate on [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+- 👯 I’m looking to collaborate on [Boycott Bollywood Trend Analysis](https://github.com/U77w41/Twitter-boycottbollywood-trend-analysis-)
 
 - 🤝 I’m looking for help with **Personalized Reinforcement Based Recommendation System**
 
