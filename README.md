@@ -1,7 +1,13 @@
 <!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41) -->
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://github.com/u77w41/u77w41/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+
+<!-- ![snake gif](https://github.com/u77w41/u77w41/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
 
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
 <h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
