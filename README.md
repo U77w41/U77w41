@@ -140,7 +140,11 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=u77w41&theme=github"/>
 </div>
  
-</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u77w41&layout=compact&theme=vision-friendly-dark)] -->
+
+
+
 
 <!-- ### WakaTime Coding Activity
 
