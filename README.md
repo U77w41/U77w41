@@ -176,12 +176,12 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ### WakaTime Coding Activity
 
 ##### Total Coding Time (5th Sep, 2022 onwards)
-<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg" alt="Wakatime weekly coding activity Tracker" /></a>
+<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
 
 ##### Weekly Activity (5th Sep, 2022 onwards)
 <a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=U77w41&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" style="width: 80%"/></a>
 
  </div>
  
-[![wakatime](https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=social)](https://wakatime.com/@6a1afd30-2c0e-4378-86f8-281e436907a4)
+[![wakatime](https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=default)](https://wakatime.com/@6a1afd30-2c0e-4378-86f8-281e436907a4)
 
