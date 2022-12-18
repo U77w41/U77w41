@@ -182,3 +182,5 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 <a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=U77w41&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" style="width: 80%"/></a>
 
  </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
