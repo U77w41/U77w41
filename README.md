@@ -183,5 +183,5 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
  </div>
  
-[![wakatime](https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=flat-square)](https://wakatime.com/@6a1afd30-2c0e-4378-86f8-281e436907a4)
+[![wakatime](https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=for-the-badge)](https://wakatime.com/@6a1afd30-2c0e-4378-86f8-281e436907a4)
 
