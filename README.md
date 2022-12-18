@@ -164,7 +164,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
  ![alt text](https://github.com/U77w41/U77w41/blob/main/1_Hacker_Rank_badges-removebg-preview.png)
  
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=flat" alt="u77w41" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=u77w41&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="u77w41" /> </p>
 	
 	
 
