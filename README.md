@@ -152,10 +152,10 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition/light)
 
  
 
