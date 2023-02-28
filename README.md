@@ -120,6 +120,20 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 
 
 
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@u77w41/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@u77w41/0" alt="Recent Article 0"></a>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
