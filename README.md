@@ -148,7 +148,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
   
 
  
-### Kaggle Profile Status:
+<!-- ### Kaggle Profile Status:
 
 
 
@@ -156,7 +156,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion/light)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition/light)
-
+ -->
  
 
  ### Hacker Rank Badges:
