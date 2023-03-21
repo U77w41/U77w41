@@ -192,10 +192,15 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 	
 	
 ### WakaTime Coding Activity
-
-##### Total Coding Time (5th Sep, 2022 onwards)
-<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
-
+	
+### Coding Stats:
+	
 <!--START_SECTION:waka-->
 	
 <!--END_SECTION:waka-->
+
+	
+##### Total Coding Time (5th Sep, 2022 onwards)
+<a href="https://wakatime.com/@U77w41" title="Data update every midnight"><img src="https://wakatime.com/badge/user/6a1afd30-2c0e-4378-86f8-281e436907a4.svg?style=social" alt="Wakatime weekly coding activity Tracker" /></a>
+
+
