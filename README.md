@@ -10,9 +10,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
+
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Aspiring+Data+Scientist;MSc+in+Data+Science+from+RKMVERI;Interseted+in+ML+DL+NLP;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+
+
+
+<!--
 <h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
 I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching animes. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
-
+-->
 
 
 
