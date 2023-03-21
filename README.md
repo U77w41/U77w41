@@ -208,7 +208,15 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ### Coding Stats:
 	
 <!--START_SECTION:waka-->
-	
+
+```text
+Python       27 hrs 4 mins   ███████████████████████░░   91.90 %
+Markdown     1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Text         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+```
+
 <!--END_SECTION:waka-->
 
 	
