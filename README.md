@@ -199,13 +199,12 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 	
 
 	
+</div>	
 	
 	
 	
+### WakaTime Activity Stats:
 	
-### WakaTime Coding Activity
-	
-### Coding Stats:
 	
 <!--START_SECTION:waka-->
 
