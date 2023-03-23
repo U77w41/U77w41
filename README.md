@@ -209,14 +209,14 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 22 March 2023
+From: 04 September 2022 - To: 23 March 2023
 
-Total Time: 98 hrs 44 mins
+Total Time: 103 hrs 58 mins
 
-Python       92 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.30 %
-Markdown     3 hrs 3 mins    >------------------------   03.09 %
-TeX          56 mins         -------------------------   00.95 %
-Other        45 mins         -------------------------   00.76 %
+Python       97 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.63 %
+Markdown     3 hrs 3 mins    >------------------------   02.93 %
+TeX          56 mins         -------------------------   00.90 %
+Other        45 mins         -------------------------   00.72 %
 ```
 
 <!--END_SECTION:waka-->
