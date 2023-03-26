@@ -209,7 +209,7 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 25 March 2023
+From: 04 September 2022 - To: 26 March 2023
 
 Total Time: 109 hrs 24 mins
 
