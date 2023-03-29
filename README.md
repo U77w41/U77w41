@@ -4,8 +4,6 @@
 </div>
 
 
-<!-- ![snake gif](https://github.com/u77w41/u77w41/blob/output/github-contribution-grid-snake.svg) -->
-
 
 
 
@@ -185,8 +183,8 @@ I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching an
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion/light)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition/light)
- -->
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition/light) -->
+
  
 
  ### Hacker Rank Badges:
