@@ -19,14 +19,6 @@
 
 
 
-<!--
-<h3> I am currently pursuing MSc from Ramakrishna Mission Vivekananda Educational and Research Institute , Belur , West Bengal. 
-I am an aspiring Data Scientist. My hobbies are playing Retro Games, watching animes. I am greatly interested in Data Science and Machine Learning. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
--->
-
-
-
-
 
 <h3 align="left">Connect with me:</h3> 
 <div align="left">
