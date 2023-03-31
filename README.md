@@ -161,7 +161,7 @@
 </div> -->
  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u77w41&layout=compact&theme=vision-friendly-dark)] -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u77w41&layout=compact&theme=vision-friendly-dark)]
 
 
 
