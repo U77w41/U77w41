@@ -54,7 +54,7 @@
 
 
 
-- 🔭 I’m currently working on [Analysis on Complete Works of Swami Vivekananda]([https://github.com/U77w41/Smart-Financial-Assistant](https://github.com/U77w41/Analysis-on-Complete-Works-of-Swami-Vivekananda))
+- 🔭 I’m currently working on [Multi Tasking BERT Model](https://github.com/U77w41/Multi_Tasking_BERT_Model)
 
 - 🌱 I’m currently learning **Reinforcement Learning , NLP , Statistics**
 
