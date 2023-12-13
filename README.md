@@ -199,12 +199,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2022 - To: 12 December 2023
+From: 04 September 2022 - To: 13 December 2023
 
-Total Time: 1,203 hrs 39 mins
+Total Time: 1,205 hrs 41 mins
 
-Python                948 hrs 47 mins >>>>>>>>>>>>>>>>>>>>-----   78.83 %
-TeX                   151 hrs 55 mins >>>----------------------   12.62 %
+Python                950 hrs 48 mins >>>>>>>>>>>>>>>>>>>>-----   78.86 %
+TeX                   151 hrs 55 mins >>>----------------------   12.60 %
 R                     40 hrs 43 mins  >------------------------   03.38 %
 Markdown              14 hrs 10 mins  -------------------------   01.18 %
 Assembly              12 hrs 26 mins  -------------------------   01.03 %
