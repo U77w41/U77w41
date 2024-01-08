@@ -4,9 +4,14 @@
 </div> -->
 
 <div align="center">
-	<img src="https://github.com/U77w41/U77w41/blob/main/header_image.png" />
+	<img src="https://github.com/U77w41/U77w41/blob/output/github-contribution-grid-snake2.svg" />
 </div>
 
+<!--
+<div align="center">
+	<img src="https://github.com/U77w41/U77w41/blob/main/header_image.png" />
+</div>
+-->
 
 
 <!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/activity_bg.svg "Ujjwal Chowdhury")](https://github.com/U77w41) -->
