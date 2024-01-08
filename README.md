@@ -1,7 +1,7 @@
-<!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41) -->
-<div align="center">
+[![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/ezgif.com-gif-maker.gif "Ujjwal Chowdhury")](https://github.com/U77w41)
+<!-- <div align="center">
 	<img src="https://github.com/u77w41/u77w41/blob/output/github-contribution-grid-snake.svg" />
-</div>
+</div> -->
 
 
 
