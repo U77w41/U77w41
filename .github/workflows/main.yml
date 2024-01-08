@@ -1,9 +1,8 @@
-
 name: Generate snake game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,18 +10,22 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
       # Snake Animation
-      - uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: u77w41
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'red'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: 'dist/github-contribution-grid-snake2.svg'
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: GitHub Pages Deployment
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
