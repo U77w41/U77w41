@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Experienced+Data+Scientist;Certified+Research+Analyst;MSc+Data+Science+from+RKMVERI;Interseted+in+ML+DL+NLP;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
