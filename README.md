@@ -65,11 +65,11 @@
 
 
 
-- 🔭 I’m currently working on [Multi Tasking BERT Model](https://github.com/U77w41/Multi_Tasking_BERT_Model)
+- 🔭 I’m currently working on [Investment-Strategy-using-Liquid-time-Stochasticity-Network](https://github.com/U77w41/Investment-Strategy-using-Liquid-time-Stochasticity-Network)
 
 - 🌱 I’m currently learning **Reinforcement Learning , NLP , Statistics**
 
-- 👯 I’m looking to collaborate on [Boycott Bollywood Trend Analysis](https://github.com/U77w41/Twitter-boycottbollywood-trend-analysis-)
+- 👯 I’m looking to collaborate on [Investment-Strategy-using-Liquid-Time-Constant-Networks](https://github.com/U77w41/Investment-Strategy-using-Liquid-Time-Constant-Networks)
 
 - 🤝 I’m looking for help with **Personalized Reinforcement Based Recommendation System**
 
