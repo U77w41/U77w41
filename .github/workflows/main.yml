@@ -20,7 +20,9 @@ jobs:
         with:
           github_user_name: u77w41
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: 'dist/github-contribution-grid-snake2.svg'
+          outputs:
+            dist/github-contribution-grid-snake2.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: GitHub Pages Deployment
         uses: crazy-max/ghaction-github-pages@v4
