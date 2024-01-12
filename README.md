@@ -78,7 +78,7 @@
 - ⚡ Fun fact **Not every Python is a snake.**
 
 
-
+<!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 
 ### Skills 🚀 
 
