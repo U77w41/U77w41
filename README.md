@@ -95,9 +95,9 @@
 ### Programming Languages: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R Language](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)
+![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
