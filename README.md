@@ -67,7 +67,7 @@
 
 - 🔭 I’m currently working on [Investment-Strategy-using-Liquid-time-Stochasticity-Network](https://github.com/U77w41/Investment-Strategy-using-Liquid-time-Stochasticity-Network)
 
-- 🌱 I’m currently learning **Reinforcement Learning , NLP , Statistics**
+- 🌱 I’m currently learning **Rust , NLP , Statistics**
 
 - 👯 I’m looking to collaborate on [Investment-Strategy-using-Liquid-Time-Constant-Networks](https://github.com/U77w41/Investment-Strategy-using-Liquid-Time-Constant-Networks)
 
