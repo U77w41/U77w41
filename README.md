@@ -143,10 +143,6 @@
 
 
 
-
-
-
-
 ### Github Stats  
 <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u77w41&theme=github_dark" align="left" style="width: 47%"/></div>  
  
@@ -193,7 +189,6 @@
 
 	
 </div>	
-	
 	
 	
 ### WakaTime Activity Stats:
