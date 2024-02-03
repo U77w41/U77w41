@@ -75,7 +75,7 @@
 
 - 📫 How to reach me **u77w41@gmail.com**
 
-- ⚡ Fun fact **Not every Python is a snake.**
+- ⚡ Fun fact **Not every Python is a snake 🐍.**
 
 <!-- https://home.aveek.io/GitHub-Profile-Badges/ -->
 
