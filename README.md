@@ -16,10 +16,7 @@
 
 <!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/activity_bg.svg "Ujjwal Chowdhury")](https://github.com/U77w41) -->
 
-
-
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
