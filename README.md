@@ -5,8 +5,6 @@
 <div align="center">
 	<img src="https://github.com/U77w41/U77w41/blob/output/github-contribution-grid-snake2.svg%20dist/github-snake-dark.svg" />
 </div>
-
-
 <!--
 <div align="center">
 	<img src="https://github.com/U77w41/U77w41/blob/main/header_image.png" />
