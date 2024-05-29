@@ -2,9 +2,10 @@
 <!-- <div align="center">
 	<img src="https://github.com/u77w41/u77w41/blob/output/github-contribution-grid-snake.svg" />
 </div> -->
+<!-- https://raw.githubusercontent.com/u77w41/u77w41/output/github-contribution-grid-snake.svg
 <div align="center">
 	<img src="https://github.com/U77w41/U77w41/blob/output/github-contribution-grid-snake2.svg%20dist/github-snake-dark.svg" />
-</div>
+</div> -->
 <!--
 <div align="center">
 	<img src="https://github.com/U77w41/U77w41/blob/main/header_image.png" />
@@ -12,6 +13,20 @@
 -->
 <!-- [![Ujjwal Chowdhury](https://github.com/U77w41/U77w41/blob/main/activity_bg.svg "Ujjwal Chowdhury")](https://github.com/U77w41) -->
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/u77w41/u77w41/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/u77w41/u77w41/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/u77w41/u77w41/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <h1 align="center">Hi 👋, I'm Ujjwal Chowdhury</h1>
 
 <p align="center">
