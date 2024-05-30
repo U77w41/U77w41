@@ -165,7 +165,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u77w41&layout=compact&theme=vision-friendly-dark)] -->
 
-
+<!--
 
  
 ### Kaggle Profile Status:
@@ -174,7 +174,7 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/discussion/light)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ujjwalchowdhury/competition/light)
 
- 
+--> 
 
  ### Hacker Rank Badges:
  
