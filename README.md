@@ -131,7 +131,6 @@
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
-
 | Analytics | DataBase | Framework |
 |:----:|:----:|:----:|
 | ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  |   ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)   |
@@ -142,8 +141,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@u77w41/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@u77w41/0" alt="Recent Article 0"></a>
 
 -->
-
-
 
 ### Github Stats  
 <div align="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=u77w41&theme=github_dark" align="left" style="width: 47%"/></div>  
