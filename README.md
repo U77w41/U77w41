@@ -188,18 +188,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2022 - To: 28 July 2024
+From: 04 September 2022 - To: 29 July 2024
 
-Total Time: 1,626 hrs 48 mins
+Total Time: 1,632 hrs 53 mins
 
-Python                1,343 hrs 50 mins>>>>>>>>>>>>>>>>>>>>>----   82.61 %
-TeX                   152 hrs 57 mins >>-----------------------   09.40 %
-R                     40 hrs 43 mins  >------------------------   02.50 %
-Markdown              23 hrs 29 mins  -------------------------   01.44 %
+Python                1,349 hrs 41 mins>>>>>>>>>>>>>>>>>>>>>----   82.66 %
+TeX                   152 hrs 57 mins >>-----------------------   09.37 %
+R                     40 hrs 43 mins  >------------------------   02.49 %
+Markdown              23 hrs 32 mins  -------------------------   01.44 %
 Assembly              12 hrs 26 mins  -------------------------   00.76 %
-Other                 7 hrs 47 mins   -------------------------   00.48 %
-GDScript3             6 hrs 45 mins   -------------------------   00.42 %
-YAML                  5 hrs 46 mins   -------------------------   00.35 %
+Other                 7 hrs 48 mins   -------------------------   00.48 %
+GDScript3             6 hrs 45 mins   -------------------------   00.41 %
+YAML                  5 hrs 49 mins   -------------------------   00.36 %
 Text                  5 hrs 45 mins   -------------------------   00.35 %
 GDScript              3 hrs 5 mins    -------------------------   00.19 %
 ```
